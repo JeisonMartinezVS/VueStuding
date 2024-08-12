@@ -12,10 +12,10 @@ import SupportIcon from './icons/IconSupport.vue'
     <template #icon>
       <DocumentationIcon />
     </template>
-    <template #heading>Documentation</template>
+    <template #heading>Documentacion</template>
 
     Vue’s
-    <a href="https://vuejs.org/" target="_blank" rel="noopener">official documentation</a>
+    <a href="https://vuejs.org/" target="_blank" rel="noopener">Documentacion oficial</a>
     provides you with all information you need to get started.
   </WelcomeItem>
 
