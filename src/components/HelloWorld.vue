@@ -14,6 +14,7 @@ const colorText = "color: red"
     <h1 class="green">{{ msg }}</h1>
     <h3 :style = colorText>
       Esto es una prueba para realizar un Pull Request <br>
+      Seguimos probando los cambios de PR <br>
       <a href="https://vitejs.dev/" target="_blank" rel="noopener">Vite</a> +
       <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a>.
     </h3>
