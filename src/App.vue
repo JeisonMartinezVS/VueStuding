@@ -1,5 +1,6 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue'
+import PruebaArchivo from './components/PruebaArchivo.vue';
 import TheWelcome from './components/TheWelcome.vue'
 </script>
 
@@ -9,6 +10,7 @@ import TheWelcome from './components/TheWelcome.vue'
 
     <div class="wrapper">
       <HelloWorld msg="Esto apenas empieza!" />
+      <PruebaArchivo msg="Solo hacemos pruebas"/>
     </div>
   </header>
 
